@@ -2,7 +2,7 @@
 ### Health and Fitness Application with Dashboards and KPIs on Salesforcev
 ### Overview
 This project implements a comprehensive **Health and Fitness Application** on the Salesforce platform, designed to help users manage fitness plans, track progress, and monitor key health metrics. The solution leverages Salesforce’s robust data modeling, automation, and analytics capabilities to deliver a user-friendly experience for clients, fitness coaches, and nutritionists. The application includes intuitive dashboards and KPIs, enabling stakeholders to make data-driven decisions and achieve health goals efficiently.
-Salesforce dashboards provide a unified, visual summary of key health and fitness metrics by aggregating data from multiple reports. These dashboards enable users to monitor individual and group progress, identify trends, and make informed decisions to enhance patient care or fitness program effectiveness[1][3][4].
+Salesforce dashboards provide a unified, visual summary of key health and fitness metrics by aggregating data from multiple reports. These dashboards enable users to monitor individual and group progress, identify trends, and make informed decisions to enhance patient care or fitness program effectiveness.
 
 ## Objectives
 - **Centralize health and fitness data** for clients, coaches, and nutritionists.
