@@ -12,13 +12,13 @@ Salesforce dashboards provide a unified, visual summary of key health and fitnes
 - **Enable role-based access** for data privacy and security.
 
 ### **Key Features**
-- **Real-Time Data Integration:** Connects with diverse data sources, including electronic health records (EHRs), wearable devices, and manual entries, to provide up-to-date health and fitness information[3][4].
-- **Customizable Visual Components:** Utilize charts, graphs, gauges, and tables to present metrics such as activity levels, exercise frequency, vital signs, and more[1][2].
-- **Dynamic Filters & Drill-Down:** Allow users to filter data by time period, demographic, or activity type, and drill down into specific details for deeper analysis[2].
-- **Role-Based Access:** Configure dashboards to display personalized data for healthcare professionals, trainers, or individual users, ensuring privacy and relevance[1][3].
-- **Predictive Analytics:** Employ advanced analytics and machine learning to forecast health outcomes, identify at-risk individuals, and recommend personalized interventions[4].
-- **Population Health Management:** Monitor and analyze data across groups to identify trends, manage chronic conditions, and optimize resource allocation[4].
-- **Compliance & Security:** Built on Salesforce Health Cloud, ensuring HIPAA and other regulatory compliance for sensitive health data[3].
+- **Real-Time Data Integration:** Connects with diverse data sources, including electronic health records (EHRs), wearable devices, and manual entries, to provide up-to-date health and fitness information.
+- **Customizable Visual Components:** Utilize charts, graphs, gauges, and tables to present metrics such as activity levels, exercise frequency, vital signs, and more.
+- **Dynamic Filters & Drill-Down:** Allow users to filter data by time period, demographic, or activity type, and drill down into specific details for deeper analysis.
+- **Role-Based Access:** Configure dashboards to display personalized data for healthcare professionals, trainers, or individual users, ensuring privacy and relevance.
+- **Predictive Analytics:** Employ advanced analytics and machine learning to forecast health outcomes, identify at-risk individuals, and recommend personalized interventions.
+- **Population Health Management:** Monitor and analyze data across groups to identify trends, manage chronic conditions, and optimize resource allocation.
+- **Compliance & Security:** Built on Salesforce Health Cloud, ensuring HIPAA and other regulatory compliance for sensitive health data.
 
 ### Use Case
 The application is ideal for fitness centers, wellness programs, or individual coaches who need to:
